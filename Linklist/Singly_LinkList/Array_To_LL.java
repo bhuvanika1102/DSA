@@ -13,7 +13,6 @@ class Node {
     }
 
 };
-// We cann't return entire linklist,so to print first HEAD_NODE we put Node*
 
 public class Array_To_LL {
 
