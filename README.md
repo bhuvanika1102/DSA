@@ -30,8 +30,9 @@ To use the implementations and example problems in this repository, simply clone
 git clone https://github.com/bhuvanika1102/DSA.git.
 ```
 ------
+### Contact
 
-##Feel free to modify the `git clone` URL and any other details as per your requirements.
+If you have any questions or suggestions, please feel free to open an issue or contact me via bhuvani1102@gmail.com.
 
 
 
