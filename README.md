@@ -27,9 +27,13 @@ This repository contains various implementations and example problems related to
 To use the implementations and example problems in this repository, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/bhuvanika1102/DSA.git
-
-
+git clone https://github.com/bhuvanika1102/DSA.git.
+```
 ------
 
 ##Feel free to modify the `git clone` URL and any other details as per your requirements.
+
+
+
+
+
